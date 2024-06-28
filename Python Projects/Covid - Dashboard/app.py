@@ -67,6 +67,7 @@ app.layout = html.Div([
         ], className='col-md-3')
     ], className='row'),
     
+    # Two More Graphs need to plot but could not able to find the problem statement for that need to as somebody.
     html.Div([
         html.Div([],className='col-md-6'),
         html.Div([],className='col-md-6')
